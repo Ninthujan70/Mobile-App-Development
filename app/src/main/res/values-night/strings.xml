@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final Assignment</string>
+    <string name="HOME">Home</string>
+    <string name="FIRST">Wallpaper</string>
+    <string name="SECOND">JSON</string>
+    <string name="THIRD">Recycle View</string>
+    <string name="post">TOP 100 POSTS</string>
+</resources>

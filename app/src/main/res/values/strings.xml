@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Final Assignment</string>
+    <string name="HOME">Home</string>
+    <string name="FIRST">Wallpaper</string>
+    <string name="SECOND">JSON</string>
+    <string name="THIRD">Recycle View</string>
+    <string name="ASSIGNMENT">QR Scan</string>
+    <string name="profile_name">Ninthujan Vasantha Kumar</string>
+    <string name="profile_work">Liepaja University</string>
+    <string name="post">TOP 100 POSTS</string>
+    <string name="my_Data">
+         \n 1.Study: BSc.Computer Science
+        \n 2.Favourite Music: Mask Off
+        \n 3.Favourite Artist: Calvin Harish
+        \n 4.Favourite Profession: Cyber Security Engineer
+        \n 5.Favourite car : BMW
+        \n 6.Favourite sports: Motor Race
+        \n 7.Favourite hobby: Riding Motor Bike
+    </string>
+</resources>

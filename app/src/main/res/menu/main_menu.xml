@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:icon="@drawable/ic_round_home_24"
+        android:title="@string/HOME"/>
+
+    <item android:id="@+id/nav_first"
+        android:icon="@drawable/ic_round_wallpaper_24"
+        android:title="@string/FIRST"/>
+
+    <item android:id="@+id/nav_second"
+        android:icon="@drawable/ic_round_data_object_24"
+        android:title="@string/SECOND"/>
+
+    <item android:id="@+id/nav_third"
+        android:icon="@drawable/ic_baseline_person_64"
+        android:title="@string/THIRD"/>
+
+    <item android:id="@+id/nav_assignment"
+        android:icon="@drawable/ic_round_view_compact_24"
+        android:title="@string/ASSIGNMENT"/>
+
+</menu>
